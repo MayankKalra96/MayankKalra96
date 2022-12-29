@@ -13,7 +13,7 @@
 <p align='left'> 📄 Know about my experiences (Resume)</p> 
 <p align='left'> ⚡ Fun fact **I am Funny**</p> 
 <!-- trophy section -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MayankKalra96" alt="Mayank" /></a> </p>
+<p align="center"> <a href="https://github.com/MayankKalra96/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MayankKalra96" alt="Mayank" /></a> </p>
 <!-- SM -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
