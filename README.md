@@ -7,7 +7,7 @@
 <img align ='right' alt='CODING' width='400' src='https://cdn.theatlantic.com/thumbor/TfkyTGPv_Yz7WNK6yA8lK_W09Po=/0x0:2000x1125/1952x1098/media/img/mt/2019/10/Matrix/original.gif'>
 <!-- DESCRIPTION -->
 <p align='left'> 🔭 Developer 
-<p align='left'> 🌱 I’m currently learning **NoSQL- MongoDB** </p> 
+<p align='left'> 🌱 I’m currently learning ** PWA- Progressive Web Application ** </p> 
 <p align='left' > 💬 Ask me about **React**</p> 
 <p align='left'> 📫 How to reach me **kalramayank810@gmail.com** </p> 
 <p align='left'> 📄 Know about my experiences (Resume)</p> 
